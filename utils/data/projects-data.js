@@ -5,7 +5,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Aplomb Biz App',
-        description: "It's a web and mobile application delivers a secure and seamless shopping experience, enabling users to log in, access their personalized Aplomb dashboard, and make purchases through an integrated shopping cart system. Built with Ionic, Capacitor, and React JS, it provides a smooth, cross-platform experience on both Android and iOS.Material UI for an intuitive design, and real-time API integrations for efficient backend communication, the app ensures optimal performance across devices.Deployment and testing were conducted through Android Studio to guarantee a flawless user experience.",
+        description: "It's a web and mobile application delivers a secure and seamless shopping experience, enabling users to log in, access their personalized Aplomb dashboard, and make purchases through an integrated shopping cart system. Built with Ionic, Capacitor, and React JS, it provides a smooth, cross-platform experience on both Android and iOS.Material UI for an intuitive design, and real-time API integrations for efficient backend communication, the app ensures optimal performance across devices.",
         tools: ['Javascript', 'React.js', 'Material UI', 'React Hooks', 'Ionic framework', 'Android Studio', 'Capacitor'],
         code: '',
         role: 'Frontend Developer',
